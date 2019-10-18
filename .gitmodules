@@ -1,0 +1,24 @@
+[submodule "sh"]
+	path = sh
+	url = git@github.com:6du-space/sh.git
+[submodule "site"]
+	path = site
+	url = git@github.com:6du-space/site.git
+[submodule "6du-space.github.io"]
+	path = 6du-space.github.io
+	url = git@github.com:6du-space/6du-space.github.io.git
+[submodule "artipub"]
+	path = artipub
+	url = git@github.com:6du-space/artipub.git
+[submodule "plugin/md"]
+	path = plugin/md
+	url = git@github.com:6du-plugin/md.git
+[submodule "plugin/url"]
+	path = plugin/url
+	url = git@github.com:6du-plugin/url.git
+[submodule "docker-dev"]
+	path = docker-dev
+	url = git@github.com:6du-space/docker-dev.git
+[submodule "config"]
+	path = config
+	url = git@github.com:6du-space/config.git
